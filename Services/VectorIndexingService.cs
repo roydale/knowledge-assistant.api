@@ -20,21 +20,33 @@ public class VectorIndexingService(
     {
         var documents = _repository.GetAll();
 
-        var firstEmbedding = await _embeddingService.GenerateEmbeddingAsync(documents.First().Content);
-        await _vectorStore.EnsureCollectionExistsAsync(firstEmbedding.Length);
+        // Group documents by collection name
+        var documentsByCollection = documents.GroupBy(d => d.CollectionName);
 
-        foreach (var doc in documents)
+        foreach (var collectionGroup in documentsByCollection)
         {
-            var embedding = await _embeddingService.GenerateEmbeddingAsync(doc.Content);
+            var collectionName = collectionGroup.Key;
+            var collectionDocs = collectionGroup.ToList();
 
-            await _vectorStore.UpsertAsync(
-                doc.Id,
-                embedding,
-                new Dictionary<string, string>
-                {
-                    ["title"] = doc.Title,
-                    ["source"] = doc.Source
-                });
+            // Ensure collection exists with proper vector size
+            var firstEmbedding = await _embeddingService.GenerateEmbeddingAsync(collectionDocs.First().Content);
+            await _vectorStore.EnsureCollectionExistsAsync(collectionName, firstEmbedding.Length);
+
+            // Index all documents in this collection
+            foreach (var doc in collectionDocs)
+            {
+                var embedding = await _embeddingService.GenerateEmbeddingAsync(doc.Content);
+
+                await _vectorStore.UpsertAsync(
+                    collectionName,
+                    doc.Id,
+                    embedding,
+                    new Dictionary<string, string>
+                    {
+                        ["title"] = doc.Title,
+                        ["source"] = doc.Source
+                    });
+            }
         }
     }
 }

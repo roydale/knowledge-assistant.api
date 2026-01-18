@@ -8,8 +8,14 @@ namespace KnowledgeAssistant.Api.Domain;
 public class KnowledgeDocument
 {
     public Guid Id { get; init; } = Guid.NewGuid();
+
     public string Title { get; init; } = string.Empty;
+
     public string Content { get; init; } = string.Empty;
+
     public string Source { get; init; } = string.Empty;
+
     public DateTime CreatedAt { get; init; } = DateTime.UtcNow;
+
+    public string CollectionName { get; set; } = string.Empty;
 }

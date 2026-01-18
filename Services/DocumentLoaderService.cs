@@ -25,8 +25,18 @@ public class DocumentLoaderService(IWebHostEnvironment env)
                 Id = GenerateId(file),
                 Title = Path.GetFileNameWithoutExtension(file),
                 Content = File.ReadAllText(file),
-                Source = file
+                Source = file,
+                CollectionName = GetCollectionName(file)
             })];
+    }
+
+    private string GetCollectionName(string filePath)
+    {
+        // Get the parent directory of the file
+        var parentDir = Directory.GetParent(filePath);
+
+        // Return the parent directory name, or a default if null
+        return parentDir?.Name ?? "default-collection";
     }
 
     public static Guid GenerateId(string input)
