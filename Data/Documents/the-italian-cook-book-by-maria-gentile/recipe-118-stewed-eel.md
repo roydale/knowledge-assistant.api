@@ -1,0 +1,21 @@
+---
+id: 118
+title: Stewed Eel
+italian_title: Anguille in umido
+category: Fish
+dietary: Pescatarian
+tags: [eel, tomato sauce, stewing]
+---
+# Stewed Eel (Anguille in umido)
+
+## Instructions
+For this dish it is preferable to have good sized eels that must not be
+skinned, but cut in small pieces.
+
+Chop some onion and parsley, put it on the fire with oil, salt, and
+pepper, and when the onion is browned, add the pieces of eel. Wait until
+it has absorbed the taste of the onion sauce and then complete the
+cooking with tomato sauce (No. 12).
+
+See that there is plenty of gravy and serve with little squares or
+diamonds of toast.

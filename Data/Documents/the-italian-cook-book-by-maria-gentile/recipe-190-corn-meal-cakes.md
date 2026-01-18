@@ -1,0 +1,31 @@
+---
+id: 190
+title: Corn Meal Cakes
+italian_title: Pasta di farina gialla
+category: Dessert
+dietary: Vegetarian
+tags: [cornmeal, biscuits, anise]
+---
+
+# Corn Meal Cakes (Pasta di farina gialla)
+
+## Ingredients
+ - Corn meal, seven and a half ounces,
+ - Wheat flour, five and a half ounces,
+ - Granulated sugar, five and a half ounces,
+ - Butter, three and a half ounces,
+ - Lard, two ounces,
+ - A pinch of anise seed,
+ - One egg.
+
+## Instructions
+Mix together the corn meal, the flour and the anise seed and knead with
+the butter, the lard and the egg that quantity that you can, forming a
+loaf that you will put aside. What remains is to be kneaded with water
+forming another loaf. Then mix the two loaves and knead a little, not
+much because the dough must remain soft. Flatten with the rolling pin
+until it becomes one quarter of an inch thick, sprinkle with flour, and
+cut in different sizes and shapes with thin stamps.
+
+Grease a baking tin with lard, sprinkle, with flour, glaze with the egg,
+bake and dust with powdered sugar.

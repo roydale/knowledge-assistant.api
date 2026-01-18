@@ -1,0 +1,19 @@
+---
+id: 43
+title: Chicken with Sausages
+italian_title: Pollo colle salsicce
+category: Main Course
+dietary: Meat-inclusive
+tags: [chicken, sausages, ham, onion, butter]
+---
+
+# Chicken with Sausages (Pollo colle salsicce)
+
+## Instructions
+Chop fine half an onion and put it in a saucepan with a piece of butter
+and four or five slices of ham, half an inch wide. Over these
+ingredients place a whole chicken, season with pepper and a little salt
+and place on the fire. Brown it on all sides and, when the onion is all
+melted, add water or broth and three or four sausages freshly made. Let
+it cook on a low fire, seeing that the sauce remains liquid and does not
+dry up.

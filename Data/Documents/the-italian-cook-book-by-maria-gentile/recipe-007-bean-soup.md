@@ -1,0 +1,32 @@
+---
+id: 7
+title: Bean Soup
+italian_title: Zuppa di fagiuoli
+category: Soup
+dietary: Vegetarian, Lean (Di Magro)
+tags: [beans, tomatoes, fasting, garlic]
+---
+
+# Bean Soup (Zuppa di fagiuoli)
+
+## Instructions
+One cup of dried beans, kidney, navy or lima is to be soaked over night.
+Then boil until tender. It is preferable to put the beans to cook in
+cold water with a pinch of soda. When they come to boil, pour off this
+water and add fresh.
+
+Chop fine 1/4 onion, one clove of garlic, one sprig of parsley and one
+piece of celery and put them to fry in 1/4 cup of oil with salt and a
+generous amount of pepper. When the vegetables are a delicate brown add
+to them two cups of the broth from the beans and 1 cup of tomatoes
+(canned or fresh). Let all come to a boil and pour the mixture into the
+kettle of beans from which some of the water has been drained, if they
+are very liquid. This soup may be served as it is or rubbed through a
+sieve before serving. Croutons or triangles of dry toast make an
+excellent addition.
+
+## Notes
+The bean soup is made without meat or chicken broth, and it belongs
+consequently to that class of soup called by the Italians "**Minestra di
+Magro**" or "lean soup," to be served preferably on Friday and other days
+in which the Roman Catholic Church prohibits the use of meats.

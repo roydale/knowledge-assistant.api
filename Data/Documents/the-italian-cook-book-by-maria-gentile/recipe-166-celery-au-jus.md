@@ -1,0 +1,21 @@
+---
+id: 166
+title: Celery au Jus
+italian_title: Sedano al sugo
+category: Vegetable
+dietary: Vegetarian
+tags: [celery, broth, onion, carrot]
+---
+
+# Celery au Jus (Sedano al sugo)
+
+## Instructions
+Select nine or ten heads, neither too hard nor too soft, and cut them
+about four inches from the root. Remove the green and hard branches and
+trim the root, cutting the latter to a point. Scald the celery, after
+washing well, in salted boiling water. Ten minutes will be sufficient.
+Dip in cold water, open well the leaves and wash again carefully. Drain
+and make bunches of two or three heads each that you will put in a
+saucepan with a pint of broth or water and half a cup of good fat, onion
+and carrot chopped, salt and pepper. Cover and let it simmer for about
+two hour. Then remove the celery, drain and serve.

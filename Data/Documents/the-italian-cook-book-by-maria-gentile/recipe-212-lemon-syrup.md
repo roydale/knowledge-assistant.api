@@ -1,0 +1,28 @@
+---
+id: 212
+title: Lemon Syrup
+italian_title: Sciroppo di limone
+category: Syrup
+dietary: Vegetarian
+tags: [lemon, syrup, citrus]
+---
+
+# Lemon Syrup (Sciroppo di limone)
+
+## Ingredients
+ - Three big lemons.
+ - One and a half pound of sugar.
+ - A tumbler of water.
+
+## Instructions
+Skin the lemons, removing the internal pulp without squeezing it and
+taking off all seeds.
+
+Put the water on the fire with the skin of one of the lemons cut in a
+thin ribbon like strip with a small knife. When the water is near
+boiling put in the sugar then remove the lemon skin and immerse the pulp
+of the three lemons. Boil until the syrup is condensed and cooked right,
+which is known by the pearls that it makes boiling and the color of
+white wine that it acquires. Preserve in a bottle, and when needed,
+dilute in a tumbler of ice water. A small quantity will make a
+delightful beverage.

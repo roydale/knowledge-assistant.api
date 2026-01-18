@@ -1,0 +1,19 @@
+---
+id: 56
+title: Sauce for Broiled Fish
+italian_title: Salsa per pesce in gratella
+category: Sauce
+dietary: Pescatarian
+tags: [egg yolks, anchovies, olive oil, lemon juice]
+---
+
+# Sauce for Broiled Fish (Salsa per pesce in gratella)
+
+## Instructions
+This sauce is composed of yolks of eggs, salted anchovies, olive oil and
+lemon juice. Boil the eggs in their shell for ten minutes and for every
+hard yolk take one large anchovy or two small. Bone the anchovies and
+rub them on the sieve together with the hard (or semi-hard) yolks, and
+dissolve all with oil and lemon juice to reduce it like a cream. Cover
+with this sauce the broiled fish before sending to the table, or serve
+aside in a gravy boat.

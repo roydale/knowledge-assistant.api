@@ -1,0 +1,19 @@
+---
+id: 44
+title: Chicken with Egg Sauce
+italian_title: Pollo in salsa d'uova
+category: Main Course
+dietary: Meat-inclusive
+tags: [chicken, egg sauce, lemon, butter]
+---
+
+# Chicken with Egg Sauce (Pollo in salsa d'uova)
+
+## Instructions
+Break into pieces a young chicken and put it in the saucepan with a
+piece of butter. Season with salt and pepper. When it is half browned
+sprinkle with a pinch of flour to give it color, then complete the
+cooking with broth. Remove it from the same and put it on a plate. Beat
+the yolk of one egg with the piece of half a lemon and pour it on the
+sauce of the chicken, allowing it to simmer for some minutes. Then pour
+on the chicken and serve hot.

@@ -1,0 +1,19 @@
+---
+id: 125
+title: Codfish Croquettes
+italian_title: Cotolette di baccalá
+category: Fish
+dietary: Pescatarian
+tags: [codfish, croquettes, anchovies, eggs]
+---
+
+# Codfish Croquettes (Cotolette di baccalá)
+
+## Instructions
+Boil as explained above and, if the quantity is one pound or a little
+more put together two anchovies and some parsley, chopping everything
+together very fine. Add some pepper, a tablespoonful of grated cheese,
+three or four tablespoonfuls of pap, composed of bread crumbs in large
+pieces, water and butter, and two eggs. Give the compound the form of
+several flat cutlets, dip them in beaten egg and in ground bread crumbs.
+Fry in oil and serve with lemon, or tomato sauce.

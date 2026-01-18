@@ -1,0 +1,22 @@
+---
+id: 22
+title: Risotto Milanaise
+italian_title: Risotto alla Milanese
+category: Rice
+dietary: 
+tags: [rice, saffron, onion, butter, Parmesan]
+---
+
+# Risotto Milanaise (Risotto alla Milanese)
+
+## Instructions
+Melt a small piece of butter in a saucepan. Brown in the butter a medium
+sized onion, cut in thin slices. When the onion is browned, take it away
+from the saucepan and add little by little the rice, stirring it with a
+wooden spoon. Every time that the rice becomes dry, add some hot broth
+(or hot water) until the rice is completely cooked. Add salt and pepper
+and a little saffron, if you like it.
+
+When the rice is almost cooked, add to it some brown stock. Dress with
+parmesan cheese and some butter. Mix well and serve hot. This dish must
+not be allowed to be overcooked or cooled before eating.

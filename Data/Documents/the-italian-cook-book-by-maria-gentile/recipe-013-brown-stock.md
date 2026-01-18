@@ -1,0 +1,27 @@
+---
+id: 13
+title: Brown Stock
+italian_title: Sugo di Carne
+category: Sauce/Condiment
+dietary: Meat-based
+tags: [beef, salt pork, base, slow-cooked]
+---
+
+# Brown Stock (Sugo di Carne)
+
+## Instructions
+Cover the bottom of a saucepan with thin slices of beef taken from a
+juicy cut and small pieces of salt pork. Place over a large onion, one
+carrot, and a stalk of celery, all chopped in small pieces. Add some
+butter and cover the whole with any trimmings from steaks or roasts and
+any bit of left over cooked meat. Season with salt and cloves. Put over
+the fire without stirring. When you smell the onions getting very brown,
+turn the meat and when everything is quite brown add a cup of water,
+renewing the latter three times. Finally add a certain quantity of
+boiling water or, better still, of broth, and let it boil gently five or
+six hours. Strain, cool and skim off the fat which will form a cake on
+top of the liquid.
+
+## Notes
+The meat can be used afterward for meat balls or **Croquettes**. The stock
+may be kept for some days and forms the basis for many dishes.

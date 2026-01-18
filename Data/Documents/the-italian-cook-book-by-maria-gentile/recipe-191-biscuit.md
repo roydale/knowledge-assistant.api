@@ -1,0 +1,34 @@
+1---
+id: 191
+title: Biscuit
+italian_title: Biscotto
+category: Dessert
+dietary: Vegetarian
+tags: [sponge cake, potato starch, lemon]
+---
+
+# Biscuit (Biscotto)
+
+## Ingredients
+ - Six eggs,
+ - Granulated sugar, nine ounces,
+ - Flour, four ounces,
+ - Potato meal, two ounces,
+ - Taste of lemon peel.
+
+## Instructions
+Stir for at least half an hour the yolks of the eggs with the sugar and
+a tablespoonful only of the flour and meal, using a ladle. Beat the
+whites of the eggs until they are quite firm, mix slowly with the first
+mixture and when they are well incorporated pour over from a sieve the
+flour and the potato meal, previously dried in the sun or on the fire.
+
+Bake in a tin where the mixture comes about one inch and a half thick,
+previously greasing the tin with cold butter and sprinkle with powdered
+sugar mixed with flour.
+
+In these cakes with beaten whites the following method can also be
+followed: mix and stir first the yolks with the sugar, then put the
+flour then, after a good kneading, beat the whites until they are firm,
+pour two tablespoonfuls to soften the mixture, then the rest little by
+little.

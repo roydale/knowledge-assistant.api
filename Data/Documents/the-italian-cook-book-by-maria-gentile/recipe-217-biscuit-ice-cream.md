@@ -1,0 +1,29 @@
+---
+id: 217
+title: Biscuit Ice Cream
+italian_title: Pezzo in gelo
+category: Frozen Dessert
+dietary: Vegetarian
+tags: [ice cream, frozen dessert, vanilla]
+---
+
+# Biscuit Ice Cream (Pezzo in gelo)
+
+## Ingredients
+Make a cream with:
+
+ - Water, five ounces.
+ - Sugar, two ounces.
+ - The yolks of four eggs.
+ - A taste of vanilla.
+
+## Instructions
+Put it on the fire stirring continually and when it begins to stick to
+the ladle remove from the fire and whip to a stiff froth. Then mix about
+five ounces of ordinary whipped cream, put in a mold and pack in salt
+and ice.
+
+Keep in ice for about three hours.
+
+## Notes
+This dose will be sufficient for seven or eight persons.

@@ -1,0 +1,20 @@
+---
+id: 31
+title: Artichokes with Butter
+italian_title: Carciofi al burro
+category: Vegetable
+dietary: Vegetarian
+tags: [artichokes, butter, cheese, side dish]
+---
+
+# Artichokes with Butter (Carciofi al burro)
+
+## Instructions
+Wash, dry and cut out the top of the leaves of as many artichokes as are
+needed. Cut them in two or four and boil them in salt water. When
+tender, drain them, have them slightly browned in melted butter and
+season with salt and pepper.
+
+## Notes
+When served in a vegetable dish or placed in a pyramid on a round plate,
+sprinkle with grated cheese.

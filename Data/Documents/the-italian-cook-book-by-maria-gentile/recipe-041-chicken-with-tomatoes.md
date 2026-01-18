@@ -1,0 +1,20 @@
+---
+id: 41
+title: Chicken with Tomatoes
+italian_title: Pollo alla contadina
+category: Main Course
+dietary: Meat-inclusive
+tags: [chicken, tomatoes, rosemary, garlic, lard]
+---
+
+# Chicken with Tomatoes (Pollo alla contadina)
+
+## Instructions
+Take a young chicken and make some little holes in the skin in which you
+will put some sprigs of rosemary and a clove of garlic cut into five or
+six pieces. Put it on the fire with chopped lard and season with salt
+and pepper inside and outside. When it is well browned on all parts add
+tomatoes cut in pieces, taking care to remove previously all the seeds.
+Moisten with broth or water. Brown some potatoes in oil, fat or butter,
+previously cutting them into sections. When browned dip in the sauce of
+the chicken and serve the whole together.

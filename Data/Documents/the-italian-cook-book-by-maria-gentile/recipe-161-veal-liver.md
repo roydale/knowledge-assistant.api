@@ -1,0 +1,16 @@
+---
+id: 161
+title: Veal Liver
+italian_title: Fegato di vitella alla veneziana
+category: Main Course
+dietary: Meat-inclusive
+tags: [veal liver, onion, sautéed]
+---
+
+# Veal Liver (Fegato di vitella alla veneziana)
+
+## Instructions
+Brown a large onion cut in thin slices in oil and place in the saucepan
+the liver cut in thin slices. Brown everything on a strong fire. When
+the liver takes a reddish color it is ready. If it is overdone, it
+becomes too hard. Salt just before removing from the saucepan.

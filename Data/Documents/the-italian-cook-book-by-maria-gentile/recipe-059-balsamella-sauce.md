@@ -1,0 +1,26 @@
+---
+id: 59
+title: Balsamella Sauce
+italian_title: Salsa balsamella
+category: Sauce
+dietary: Vegetarian
+tags: [flour, butter, milk, bechamel]
+---
+
+# Balsamella Sauce (Salsa balsamella)
+
+## Instructions
+This sauce resembles the famous French Béchamel Sauce, but it is simpler
+in its composition.
+
+Put in a saucepan one tablespoonful of flour and a piece of butter as
+big as an egg. Stir the flour and the butter together while keeping them
+over the fire. When the flour begins to be browned, pour over a pint of
+milk, continually stirring with a wooden spoon until you see the liquid
+condensed like a cream. This is the **Balsamella**. If it is too thick add
+some milk, if too liquid put back on the fire with another piece of
+butter dipped in flour.
+
+## Notes
+A good **Balsamella** and some well prepared brown stock are the base and
+the principal secret of many savory dishes.

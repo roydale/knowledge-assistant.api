@@ -1,0 +1,28 @@
+---
+id: 207
+title: Stuffed Peaches
+italian_title: Pesche ripiene
+category: Dessert
+dietary: Vegetarian
+tags: [peaches, baked fruit, almonds]
+---
+
+# Stuffed Peaches (Pesche ripiene)
+
+## Ingredients
+ - Six big peaches not very ripe.
+ - Four or five lady-finger biscuits.
+ - Granulated sugar, three ounces.
+ - Two ounces sweet almonds with three peach kernels.
+ - Candied fruit (angelica) half an ounce.
+
+## Instructions
+Cut the peaches in two parts, remove the stones and enlarge somewhat the
+cavity where they were with the point of a knife. Mix the peach pulp
+that you extract with the almonds, already skinned, and grind the pulp
+and almonds very fine together with two ounces of the sugar. To this
+mixture add the lady-fingers crumbed and the candied fruits. Cut in very
+small cubes. This will be the stuffing with which you will fill the
+cavities of the twelve halves of peach. These you will place in a row in
+a baking tin, with the stuffing above. Add the remaining ounce of sugar
+and bake in oven with a moderate fire.

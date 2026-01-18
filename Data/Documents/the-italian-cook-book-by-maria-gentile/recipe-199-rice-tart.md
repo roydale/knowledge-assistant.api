@@ -1,0 +1,32 @@
+---
+id: 199
+title: Rice Tart
+italian_title: Torta di riso
+category: Dessert
+dietary: Vegetarian
+tags: [rice, almonds, baked tart]
+---
+
+# Rice Tart (Torta di riso)
+
+## Ingredients
+ - Milk, one quart.
+ - Rice, seven ounces.
+ - Sugar, five and a half ounces.
+ - Sweet almonds with four bitter ones, three and a half ounces.
+ - Candied cedar (angelica), one ounce.
+ - Three whole eggs.
+ - Five egg-yolks.
+ - Taste of lemon peel.
+ - A pinch of salt.
+
+## Instructions
+Skin the almonds and grind or pound them with two tablespoonfuls of the
+sugar.
+
+Cut the candied cedar in very small cubes. Cook the rice in the milk
+until it is quite firm, put in all the ingredients except the eggs,
+which are added when the mixture is cold. Put the entire mixture in a
+baking tin greased with butter and sprinkled with bread crumbs ground
+fine, harden in the oven and after 24 hours cut the tart into diamonds.
+When serving dust with powdered sugar.

@@ -1,0 +1,24 @@
+---
+id: 48
+title: Ragout of Squabs
+italian_title: Manicaretto di piccione
+category: Main Course
+dietary: Meat-inclusive
+tags: [squabs, mushrooms, sweetbread, lemon, parsley]
+---
+
+# Ragout of Squabs (Manicaretto di piccione)
+
+## Instructions
+Cut two or more squabs at the joints, preferably in four parts each, and
+put them on the fire with a slice of ham, a piece of butter, and a bunch
+of parsley. When they begin to dry, add some broth and--before they are
+completely cooked--their giblets and fresh mushrooms cut in slices.
+Continue pouring in broth and allow the whole to simmer on a low fire.
+Add another piece of butter over which some flour has been sprinkled, or
+flour alone. Before serving, remove the ham and the bunch of greens and
+squeeze some lemon juice over the squabs.
+
+## Notes
+Some sweetbread may be added with good effect, but it must be first
+scalded and the skin removed.

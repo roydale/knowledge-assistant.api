@@ -1,0 +1,18 @@
+---
+id: 11
+title: Pavese Soup
+italian_title: Zuppa alla Pavese
+category: Soup
+dietary: Vegetarian
+tags: [eggs, toast, broth, parmesan, quick]
+---
+
+# Pavese Soup (Zuppa alla Pavese)
+
+## Instructions
+Cut as many thin slices of bread as are needed in order that each person
+may have at least two of them. These slices are then to be toasted and
+browned with butter. Poach two eggs for each person, one on each slice
+of bread and place the slices on a large and deep dish (not in a soup
+tureen). Pour hot broth in the plate, taking care not to break the eggs,
+season with Parmesan or Swiss cheese, and serve.

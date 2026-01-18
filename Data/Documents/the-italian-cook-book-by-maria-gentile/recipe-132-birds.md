@@ -1,0 +1,23 @@
+---
+id: 132
+title: Birds
+italian_title: Arrosto di uccelli
+category: Main Course
+dietary: Meat-inclusive
+tags: [game birds, roasting, bacon]
+---
+
+# Birds (Arrosto di uccelli)
+
+## Instructions
+The best way to cook birds, and that nearly always used by the Italians,
+is roasted at the spit. They must be spitted with a small slice of bread
+between each bird. Also wrap each bird in very thin slices of bacon, in
+such a way that it can be spitted with this covering. Mind to slice the
+bacon almost as thin as paper. Pass some oil--only once--over when they
+begin to brown, using a brush or a feather, and salt only once,
+moderately.
+
+Put on the fire when near to be served, otherwise they may get dry and
+lose much of their flavor. The cooking is rapidly done if on a good
+fire.

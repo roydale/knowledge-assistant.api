@@ -1,0 +1,21 @@
+---
+id: 67
+title: Fried Croquettes, Bologna Style
+italian_title: Fritto composto alla Bolognese
+category: Main Course
+dietary: Meat-inclusive
+tags: [veal, brain, ham, balsamella, truffles, cheese]
+---
+
+# Fried Croquettes, Bologna Style (Fritto composto alla Bolognese)
+
+## Instructions
+Take a piece of stewed lean veal, a little brain boiled or stewed, and a
+slice of ham. Chop and grind everything fine. Add a yolk of egg or a
+whole egg, according to the quantity, and a little **Balsamella** (see No.
+54). Put the hash on the fire and stir until the egg is cooked. Add
+finally grated cheese, a taste of nutmeg, and, if you have them, some
+truffles chopped very fine and put in a plate. When quite cold make some
+little balls as large as a walnut and roll them in flour. Then dip in
+beaten egg and bread crumb ground very fine, repeating the operation
+twice, and fry.

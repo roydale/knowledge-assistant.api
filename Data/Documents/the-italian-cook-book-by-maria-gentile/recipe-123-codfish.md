@@ -1,0 +1,20 @@
+---
+id: 123
+title: Codfish with Oil and Herbs
+italian_title: Baccalá
+category: Fish
+dietary: Pescatarian
+tags: [codfish, olive oil, garlic, parsley, lemon]
+---
+
+# Codfish with Oil and Herbs (Baccalá)
+
+## Instructions
+### II
+The following is another way to prepare the codfish, slightly different
+from the preceding. Cut the codfish as above, then put it as it is in
+saucepan with some olive oil. Spread over it a hash of garlic and
+parsley and season with a pinch of pepper, oil and little pieces of
+butter. Cook on a good fire and turn it with care, because, not being
+sprinkled with flour, it breaks easily. When it is cooked, squeeze a
+lemon over and serve.

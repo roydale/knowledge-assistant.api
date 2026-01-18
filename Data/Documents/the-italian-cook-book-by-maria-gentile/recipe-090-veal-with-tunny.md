@@ -1,0 +1,34 @@
+---
+id: 90
+title: Veal with Tunny
+italian_title: Vitello tonnato
+category: Main Course
+dietary: Meat-inclusive
+tags: [veal, anchovies, tunny fish, olive oil, lemon, capers]
+---
+
+# Veal with Tunny (Vitello tonnato)
+
+## Instructions
+Take two pounds of meat without bones, remove the fat and tendons, then
+lard it with two anchovies. These must be washed and boned and cut
+lengthwise, after opening them, making in all eight pieces. Tie the
+piece of meat not very tight and boil it for an hour and a half in
+enough water to cover it completely. Previously put into the water one
+quarter of an onion larded with clover, one leaf of laurel, celery,
+carrot and parsley. Salt the water generously and don't put the veal in
+until it is boiling. When the veal is cooked, untie, dry it and keep it
+for two or three days in the following sauce in quantity sufficient to
+cover it.
+
+Grind 1/4 pound tunny fish preserved in olive oil and two anchovies,
+crush them well with the blade of a knife and rub through a sieve adding
+good olive oil in abundance little by little, and squeeze in one whole
+lemon, so that the sauce should remain liquid. Finally mix in some
+capers soaked in vinegar.
+
+## Notes
+Serve the veal cold, in thin slices, with the sauce.
+
+The stock of the veal can be rubbed through a sieve and used for
+risotto.

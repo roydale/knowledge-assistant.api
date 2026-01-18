@@ -1,0 +1,24 @@
+---
+id: 102
+title: Eggplants in the Oven
+italian_title: Melanzane al forno
+category: Vegetable
+dietary: Vegetarian
+tags: [eggplant, baking, cheese, tomato sauce]
+---
+
+# Eggplants in the Oven (Melanzane al forno)
+
+## Instructions
+Skin five or six egg-plants, cut them in round slices and salt them so
+that they throw out the water that they contain. After a few hours dip
+in flour and frying oil.
+
+Take a fireproof vase or baking tin and place the slices in layers, with
+grated cheese between each layer, abundantly seasoned with tomato sauce
+(No. 12).
+
+Beat one egg with a pinch of salt, a tablespoonful of tomato sauce, a
+teaspoonful of grated cheese and two of crumbs of bread, and cover the
+upper layer with this sauce. Put the vase in the oven and when the egg
+is coagulated, serve hot.

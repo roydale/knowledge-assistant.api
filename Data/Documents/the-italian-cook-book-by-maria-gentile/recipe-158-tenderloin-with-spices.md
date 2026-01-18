@@ -1,0 +1,20 @@
+---
+id: 158
+title: Tenderloin with Spices
+italian_title: Filetto alla piemontese
+category: Main Course
+dietary: Meat-inclusive
+tags: [tenderloin, spices, herbs, butter]
+---
+
+# Tenderloin with Spices (Filetto alla piemontese)
+
+## Instructions
+Clean and trim the meat, removing all the little skins. Then sprinkle
+with nutmeg, cinnamon, salt, and pepper, and place in an earthen vase
+covered, together with a bunch of aromatic herbs, sage, parsley,
+rosemary, onion, carrot and celery, all chopped fine. After a few hours
+melt and brown a piece of butter with the aromatic herbs, then remove
+the latter and place the tenderloin, leaving it to simmer for half an
+hour, pricking it often with a large fork or a larding pin, to add its
+juice to the gravy. Serve hot.

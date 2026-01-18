@@ -1,0 +1,17 @@
+---
+id: 127
+title: Stewed Dog-Fish
+italian_title: Palombo in umido
+category: Fish
+dietary: Pescatarian
+tags: [dog-fish, stewing, tomato sauce]
+---
+
+# Stewed Dog-Fish (Palombo in umido)
+
+## Instructions
+Cut the dog-fish in rather big pieces and then make a hash of garlic,
+parsley and very little onion. Put this hash on the fire with oil and
+when it is sufficiently browned, put the pieces of dog-fish and season
+with salt and pepper. When the fish is cooked pour over some tomato
+sauce (No. 12), let this simmer for a while, then serve.

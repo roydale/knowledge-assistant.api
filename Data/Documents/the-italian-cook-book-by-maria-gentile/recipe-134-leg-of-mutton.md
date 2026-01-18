@@ -1,0 +1,20 @@
+---
+id: 134
+title: Leg of Mutton
+italian_title: Cosciotto di castrato arrosto
+category: Main Course
+dietary: Meat-inclusive
+tags: [mutton, roasting, broth]
+---
+
+# Leg of Mutton (Cosciotto di castrato arrosto)
+
+## Instructions
+Before cooking see that several days elapse after the animal has been
+butchered. This, naturally, according to the temperature. Beat it well
+with a wooden mallet, then skin and remove the middle bone, without
+spoiling the meat. Then tie it and give it a good fire at the beginning,
+covering the fire when half cooked. Let it cook in its own juice and in
+a cup of broth strained to remove the fat; nothing else. Salt when it is
+almost cooked, but see that it is neither too well done nor rare, just
+medium. Serve with its juice apart in a sauce.

@@ -1,0 +1,23 @@
+---
+id: 84
+title: Mutton Cutlets and Filet of Veal
+italian_title: Braciuole di castrato e filetto di vitella
+category: Main Course
+dietary: Meat-inclusive
+tags: [mutton, veal, ham, chicken giblets, sweetbreads, mushrooms, wine]
+---
+
+# Mutton Cutlets and Filet of Veal (Braciuole di castrato e filetto di vitella)
+
+## Instructions
+Put in saucepan a slice of ham, some butter, a little bunch composed of
+carrot, celery and stems of parsley and over this some whole cutlets of
+mutton seasoned with salt and pepper. Make them brown on both sides, add
+another piece of butter, if necessary, and add to the cutlets some
+chicken giblets, sweetbreads and fresh or dry mushrooms (the latter
+softened in water), all cut in pieces. When all this begins to brown,
+pour some soup stock and let it simmer on a low fire. Sprinkle a little
+flour and finally pour a wineglass (or half a tumbler) of white wine
+leaving it boil a little more. When ready to serve remove the ham and
+the greens, rub the gravy through a sieve and remove the superfluous
+fat.
