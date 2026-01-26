@@ -7,15 +7,10 @@ namespace KnowledgeAssistant.Api.Controllers;
 /// Controller to manage knowledge documents.
 /// </summary>
 [ApiController]
-[Route("documents")]
-public class DocumentsController : ControllerBase
+[Route("api/[controller]")]
+public class DocumentsController(IKnowledgeRepository repository) : ControllerBase
 {
-    private readonly IKnowledgeRepository _repository;
-
-    public DocumentsController(IKnowledgeRepository repository)
-    {
-        _repository = repository;
-    }
+    private readonly IKnowledgeRepository _repository = repository;
 
     [HttpGet]
     public IActionResult GetAll()

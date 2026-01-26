@@ -1,3 +1,4 @@
+using KnowledgeAssistant.Api.Models;
 using KnowledgeAssistant.Api.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,19 +9,13 @@ namespace KnowledgeAssistant.Api.Controllers;
 /// It embeds the user query, searches the vector store, and returns similar documents.
 /// </summary>
 [ApiController]
-[Route("search")]
-public class SearchController : ControllerBase
+[Route("api/[controller]")]
+public class SearchController(
+    EmbeddingService embeddingService,
+    VectorStoreService vectorStore) : ControllerBase
 {
-    private readonly EmbeddingService _embeddingService;
-    private readonly VectorStoreService _vectorStore;
-
-    public SearchController(
-        EmbeddingService embeddingService,
-        VectorStoreService vectorStore)
-    {
-        _embeddingService = embeddingService;
-        _vectorStore = vectorStore;
-    }
+    private readonly EmbeddingService _embeddingService = embeddingService;
+    private readonly VectorStoreService _vectorStore = vectorStore;
 
     /// <summary>
     /// Search across all collections
@@ -77,5 +72,3 @@ public class SearchController : ControllerBase
         return Ok(collections);
     }
 }
-
-public record SearchRequest(string Query, int Limit = 3);

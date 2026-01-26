@@ -6,7 +6,7 @@ namespace KnowledgeAssistant.Api.Controllers;
 /// Controller to check the health status of the API.
 /// </summary>
 [ApiController]
-[Route("health")]
+[Route("api/[controller]")]
 public class HealthController : ControllerBase
 {
     [HttpGet]

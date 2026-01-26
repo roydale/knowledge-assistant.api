@@ -44,7 +44,8 @@ public class VectorIndexingService(
                     new Dictionary<string, string>
                     {
                         ["title"] = doc.Title,
-                        ["source"] = doc.Source
+                        ["source"] = doc.Source,
+                        ["content"] = doc.Content
                     });
             }
         }

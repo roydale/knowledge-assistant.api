@@ -30,7 +30,7 @@ public class DocumentLoaderService(IWebHostEnvironment env)
             })];
     }
 
-    private string GetCollectionName(string filePath)
+    private static string GetCollectionName(string filePath)
     {
         // Get the parent directory of the file
         var parentDir = Directory.GetParent(filePath);
