@@ -1,4 +1,5 @@
 using KnowledgeAssistant.Api.Services;
+using KnowledgeAssistant.Api.Tools;
 using Microsoft.SemanticKernel;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +13,9 @@ builder.Services.AddHttpClient<EmbeddingService>();
 builder.Services.AddSingleton<VectorStoreService>();
 builder.Services.AddSingleton<VectorIndexingService>();
 builder.Services.AddSingleton<IKnowledgeRepository, KnowledgeRepository>();
-builder.Services.AddSingleton(_ => KernelFactory.CreateKernel());
+builder.Services.AddSingleton<SearchDocumentsTool>();
+builder.Services.AddSingleton<SummarizeTextTool>();
+builder.Services.AddSingleton(services => KernelFactory.CreateKernel(services));
 
 var app = builder.Build();
 

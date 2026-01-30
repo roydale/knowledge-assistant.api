@@ -1,10 +1,11 @@
+using KnowledgeAssistant.Api.Tools;
 using Microsoft.SemanticKernel;
 
 namespace KnowledgeAssistant.Api.Services;
 
 public static class KernelFactory
 {
-    public static Kernel CreateKernel()
+    public static Kernel CreateKernel(IServiceProvider services)
     {
         var builder = Kernel.CreateBuilder();
 
@@ -19,6 +20,18 @@ public static class KernelFactory
             endpoint: new Uri("http://localhost:11434")
         );
 
-        return builder.Build();
+        // Build kernel
+        var kernel = builder.Build();
+
+        // Register tools
+        kernel.Plugins.AddFromObject(
+            services.GetRequiredService<SearchDocumentsTool>(),
+            "search");
+
+        kernel.Plugins.AddFromObject(
+            services.GetRequiredService<SummarizeTextTool>(),
+            "summarize");
+
+        return kernel;
     }
 }

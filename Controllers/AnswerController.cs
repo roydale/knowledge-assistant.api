@@ -5,6 +5,12 @@ using Microsoft.SemanticKernel;
 
 namespace KnowledgeAssistant.Api.Controllers;
 
+/// <summary>
+/// Controller to handle answering questions based on vector store data.
+/// </summary>
+/// <param name="embeddingService"></param>
+/// <param name="vectorStore"></param>
+/// <param name="kernel"></param>
 [ApiController]
 [Route("api/[controller]")]
 public class AnswerController(
