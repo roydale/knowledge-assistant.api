@@ -81,31 +81,55 @@ public class VectorStoreService
     /// <returns></returns>
     public async Task<IReadOnlyCollection<ScoredPoint>> SearchAcrossCollectionsAsync(float[] vector, int limit)
     {
+        Console.WriteLine($"[VECTOR STORE] SearchAcrossCollections: vector dims={vector.Length}, limit={limit}");
+
         var collections = await _client.ListCollectionsAsync();
+        Console.WriteLine($"[VECTOR STORE] Found {collections.Count} collections: {string.Join(", ", collections)}");
+
         var allResults = new List<ScoredPoint>();
 
         foreach (var collectionName in collections)
         {
             try
             {
+                Console.WriteLine($"[VECTOR STORE] Searching collection: {collectionName}");
+
                 var results = await _client.SearchAsync(
                     collectionName: collectionName,
                     vector: vector,
                     limit: (uint)limit);
 
-                allResults.AddRange(results);
+                Console.WriteLine($"[VECTOR STORE] Collection '{collectionName}' returned {results.Count} results");
+                Console.WriteLine($"[VECTOR STORE] Collection results: {GetDocumentTitles(results)}");
+
+                if (results.Any())
+                {
+                    Console.WriteLine($"[VECTOR STORE] Adding {results.Count} results from {collectionName}");
+                    allResults.AddRange(results);
+                }
+
+                Console.WriteLine($"[VECTOR STORE] Total results so far: {allResults.Count}");
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // Skip collections that might have different vector dimensions or other issues
+                Console.WriteLine($"[VECTOR STORE] ERROR in collection '{collectionName}': {ex.GetType().Name} - {ex.Message}");
+                Console.WriteLine($"[VECTOR STORE] Continuing to next collection...");
                 continue;
             }
         }
 
-        // Sort by score and take top N results
-        return [.. allResults
+        Console.WriteLine($"[VECTOR STORE] Finished searching all collections. Total results: {allResults.Count}");
+
+        var relevantResults = allResults
+            .Where(r => r.Score > 0.6)
             .OrderByDescending(r => r.Score)
-            .Take(limit)];
+            .Take(limit)
+            .ToList();
+
+        Console.WriteLine($"[VECTOR STORE] After ordering and limiting: {relevantResults.Count} results");
+        Console.WriteLine($"[VECTOR STORE] Response for LLM: {GetDocumentTitles(relevantResults)}");
+
+        return relevantResults;
     }
 
     /// <summary>
@@ -115,5 +139,10 @@ public class VectorStoreService
     public async Task<IReadOnlyCollection<string>> GetCollectionNamesAsync()
     {
         return await _client.ListCollectionsAsync();
+    }
+
+    private static string GetDocumentTitles(IReadOnlyList<ScoredPoint> results)
+    {
+        return string.Join(", ", results.Select(r => r.Payload["title"].StringValue));
     }
 }

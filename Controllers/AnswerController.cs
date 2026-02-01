@@ -23,13 +23,8 @@ public class AnswerController(
     {
         var queryEmbedding = await embeddingService.GenerateEmbeddingAsync(request.Query);
         var results = await vectorStore.SearchAcrossCollectionsAsync(queryEmbedding, request.Limit);
-
-        var context = string.Join(
-            "\n",
-            results.Select(r =>
-                r.Payload["title"].StringValue + ":\n" +
-                r.Payload["content"].StringValue[..Math.Min(1000, r.Payload["content"].StringValue.Length)])
-        );
+        var context = string.Join("\n", results.Select(r =>
+            r.Payload["title"].StringValue + ":\n" + r.Payload["content"].StringValue));
 
         var prompt = $"""
         Answer the question using only the information below.

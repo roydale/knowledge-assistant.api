@@ -3,20 +3,25 @@ using Microsoft.SemanticKernel;
 
 namespace KnowledgeAssistant.Api.Services;
 
+/// <summary>
+/// Factory for creating and configuring Semantic Kernel instances.
+/// </summary>
 public static class KernelFactory
 {
     public static Kernel CreateKernel(IServiceProvider services)
     {
         var builder = Kernel.CreateBuilder();
 
-        // Configure timeout before adding Ollama
+        // Configure Ollama client with extended timeout
         builder.Services.ConfigureHttpClientDefaults(c =>
         {
-            c.ConfigureHttpClient(client => client.Timeout = TimeSpan.FromMinutes(5));
+            c.ConfigureHttpClient(client =>
+                client.Timeout = TimeSpan.FromMinutes(5));
         });
 
+        // Add Ollama chat completion service
         builder.AddOllamaChatCompletion(
-            modelId: "phi3",
+            modelId: "llama3.2",
             endpoint: new Uri("http://localhost:11434")
         );
 
